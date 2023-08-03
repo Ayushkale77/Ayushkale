@@ -1,2 +1,2 @@
 # Ayushkale
-This is aMy first Machine Learning Project
+This is My first Machine Learning Project
